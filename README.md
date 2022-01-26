@@ -6,6 +6,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wrath-cyber&layout=compact&theme=synthwave)](https://github.com/Wrath-cyber/github-readme-stats)
  
-  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
