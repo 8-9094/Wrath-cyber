@@ -8,6 +8,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-
+Git Config   4 mins          ████████████▓░░░░░░░░░░░░   51.01 % 
+Java         4 mins          ████████████▒░░░░░░░░░░░░   48.99 % 
 ```
 <!--END_SECTION:waka-->
