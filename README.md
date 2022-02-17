@@ -8,10 +8,10 @@
  
 <!--START_SECTION:waka-->
 ```text
-Total: 33 mins
+Total: 2 hrs 47 mins
 
-Java         27 mins         ████████████████████▒░░░░   81.14 % 
-Git Config   4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-C++          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+C++          1 hr 37 mins    ██████████████▒░░░░░░░░░░   57.93 % 
+Java         1 hr 6 mins     ██████████░░░░░░░░░░░░░░░   39.53 % 
+Git Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 <!--END_SECTION:waka-->
