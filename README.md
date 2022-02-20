@@ -8,9 +8,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Total: 8 hrs 45 mins
-
-C++     7 hrs 42 mins   ██████████████████████░░░   87.93 % 
-Java    1 hr 3 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+C++     7 hrs 40 mins   ███████████████████████░░   91.94 % 
+Java    40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
 ```
 <!--END_SECTION:waka-->
