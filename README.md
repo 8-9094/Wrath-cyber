@@ -7,9 +7,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wrath-cyber&layout=compact&theme=synthwave)](https://github.com/Wrath-cyber/github-readme-stats)
  
 <!--START_SECTION:waka-->
+
 ```text
-C++         3 hrs 31 mins   ████████████████████████░   95.37 % 
-Batchfile   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-JSON        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+C++         3 hrs 31 mins   ███████████████████░░░░░░   76.40 %
+Java        55 mins         █████░░░░░░░░░░░░░░░░░░░░   19.89 %
+Batchfile   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+JSON        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
+
 <!--END_SECTION:waka-->
