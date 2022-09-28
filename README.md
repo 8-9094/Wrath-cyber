@@ -9,8 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Text         32 mins         ████████████████████████░   95.35 %
-Properties   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Text   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
