@@ -9,8 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Properties   11 mins         ███████████████████████▓░   94.20 %
-Text         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
