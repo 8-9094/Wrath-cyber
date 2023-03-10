@@ -9,10 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C#           19 mins         █████████████▓░░░░░░░░░░░   54.39 %
-JSON         12 mins         ████████▓░░░░░░░░░░░░░░░░   34.34 %
-PowerShell   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
