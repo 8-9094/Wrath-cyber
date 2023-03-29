@@ -9,7 +9,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Properties   0 secs          █████████████████████████   100.00 %
+JSON         15 mins         ████████████████████████░   96.50 %
+Properties   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
 ```
 
 <!--END_SECTION:waka-->
