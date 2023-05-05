@@ -9,9 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python      32 mins         ██████████▓░░░░░░░░░░░░░░   42.96 %
-Batchfile   27 mins         █████████▒░░░░░░░░░░░░░░░   36.85 %
-Text        15 mins         █████░░░░░░░░░░░░░░░░░░░░   20.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
