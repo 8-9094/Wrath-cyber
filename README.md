@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/73003857?v=4" width="200px"/>
+  <img src="[https://avatars.githubusercontent.com/u/73003857?v=4](https://cdn.discordapp.com/attachments/1022673925198577677/1105917345601433670/9094.png)" width="200px"/>
   <h1>8-9094</h1>
 
 [![8-9094's GitHub stats](https://github-readme-stats.vercel.app/api?username=8-9094&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
