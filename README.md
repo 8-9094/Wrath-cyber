@@ -9,8 +9,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   4 hrs 17 mins   ████████████████████▒░░░░   81.90 %
-Scheme   56 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
+Python   4 hrs 6 mins    ████████████████████████▒   96.77 %
+SQL      8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
