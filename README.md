@@ -9,9 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-AutoHotkey   11 mins         ███████████████▒░░░░░░░░░   60.81 %
-SQL          3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
-Python       3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
