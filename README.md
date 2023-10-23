@@ -9,8 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Lua     47 mins         █████████████████████████   99.73 %
-Ezhil   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
